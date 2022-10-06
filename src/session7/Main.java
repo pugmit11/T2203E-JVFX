@@ -14,5 +14,7 @@ public class Main {
         System.out.println(d3);
 
         LocalDate t = LocalDate.of(2022,10,15);
+
+        t.compareTo(y);
     }
 }
